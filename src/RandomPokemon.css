@@ -1,0 +1,15 @@
+.RandomPokemon {
+  border: solid;
+  background-color: red;
+  width: fit-content;
+  margin: auto;
+  padding: 20px;
+}
+
+.RandomPokemon h1 {
+  color: blue;
+}
+
+.RandomPokemon img {
+  width: 150px;
+}
